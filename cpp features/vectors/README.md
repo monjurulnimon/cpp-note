@@ -11,14 +11,7 @@ vector<int> heigths;
 ```
 
 
-### initialize vector
 
-##### Way 1
-Allocate memory for 10 integers. 
-
-```
- vector<int> heigths(10);
-```
 
 
 
